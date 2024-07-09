@@ -24,4 +24,15 @@ Auth services still need to be set up
 
 # Getting started
 
+Frontend
+    Run the Development Server
+    Run npm run dev to start the development server.
+    Visit http://localhost:3000 to view your application.
+    Edit app/page.tsx (or pages/index.tsx) file and save it to see the updated result in your browser
+
+Backend
+
+Database
+
+
 # Contribing guide 
