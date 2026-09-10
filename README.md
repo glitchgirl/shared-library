@@ -29,6 +29,7 @@ Frontend
     Run npm run dev to start the development server.
     Visit http://localhost:3000 to view your application.
     Edit app/page.tsx (or pages/index.tsx) file and save it to see the updated result in your browser
+    SRC has the components which each have their own .tsx file and a .styles.css file if a lot of styling needs to be done, we will used styled components
 
 Backend
 
