@@ -1,10 +1,12 @@
-.footer {
-  background-color: #eeeeee;
-  text-align: center;
-  padding: 20px;
-  margin-top: 40px;
-}
+import { styled } from "@mui/material/styles";
 
-.footer p {
-  margin: 5px;
-}
+export const FooterContainer = styled("footer")({
+  backgroundColor: "#eeeeee",
+  textAlign: "center",
+  padding: "20px",
+  marginTop: "40px",
+});
+
+export const FooterText = styled("p")({
+  margin: "5px",
+});

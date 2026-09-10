@@ -1,10 +1,11 @@
-import "./Footer.css";
+import { FooterContainer, FooterText } from "./footer.styles";
+
 function Footer() {
   return (
-    <footer className="footer">
-      <p>© 2026 Library of Things</p>
-      <p>Borrow. Use. Return. Repeat.</p>
-    </footer>
+    <FooterContainer>
+      <FooterText>© 2026 Library of Things</FooterText>
+      <FooterText>Borrow. Use. Return. Repeat.</FooterText>
+    </FooterContainer>
   );
 }
 
