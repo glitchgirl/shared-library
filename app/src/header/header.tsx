@@ -10,8 +10,21 @@ export const Header: React.FC = (): JSX.Element => {
             <li>Books</li>
             <li>Tools</li>
             <li>Patterns</li>
-            <Button variant="contained">Sign in</Button>
-            <Button variant="contained" color="success">Register</Button>
+            <Button
+                variant="contained"
+                size="small"
+             
+            >
+                Sign in
+            </Button>
+            <Button
+                variant="contained"
+                color="success"
+                size="small"
+                sx={{ ml: 2 }}
+            >
+                Register
+            </Button>
         </HeaderMenuList>
 
         </div>
