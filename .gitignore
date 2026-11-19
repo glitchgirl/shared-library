@@ -49,3 +49,5 @@ out
 
 # DynamoDB Local files
 .dynamodb/
+
+/app/generated/prisma
