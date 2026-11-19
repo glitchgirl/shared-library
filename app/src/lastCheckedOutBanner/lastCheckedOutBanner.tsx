@@ -1,5 +1,5 @@
 import { Box, Typography } from '@mui/material';
-import CustomCard from '../cards/card';
+import CustomCard from '../cards/simpleCard';
 
 export default function LastCheckedOutBanner() {
 	return (

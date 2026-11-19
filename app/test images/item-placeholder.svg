@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#e9d9b4"/>
+  <path d="M288 360h224v20H288zM320 260h160v100H320z" fill="#4d6aaa"/>
+  <path d="M350 230h100v30H350z" fill="#e59059"/>
+  <text x="400" y="430" fill="#2f406a" font-family="Arial, sans-serif" font-size="28" text-anchor="middle">Sample item</text>
+</svg>
